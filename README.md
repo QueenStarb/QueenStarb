@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @QueenStarb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Disney Cartoons
+- 🌱 I’m currently learning Coding in everyones back
+- 💞️ I’m looking to collaborate on something big with friends
+- 📫 How to reach me- either twitter/instagram 
 
 <!---
 QueenStarb/QueenStarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-this is very cool. I like Star vs the forces of evil and tons of stuff!
 Github looking good today.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QueenStarb
-- 👀 I’m interested in Disney Cartoons
+- 👀 I’m interested in Disney Cartoons,Magic and technology
 - 🌱 I’m currently learning Coding in everyones back
 - 💞️ I’m looking to collaborate on something big with friends
 - 📫 How to reach me- either twitter/instagram 
